@@ -1,0 +1,5 @@
+05/01/23 20:22:39 PM Thursday: CRITICAL: This is critical msg
+05/01/23 20:22:39 PM Thursday: ERROR: This is a error msg
+05/01/23 20:22:39 PM Thursday: WARNING: this is warning msg
+05/01/23 20:22:39 PM Thursday: INFO: This is a Info msg
+05/01/23 20:22:39 PM Thursday: DEBUG: This is a Debug msg

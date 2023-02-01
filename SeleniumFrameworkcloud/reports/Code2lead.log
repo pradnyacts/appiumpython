@@ -1,0 +1,237 @@
+09/01/23 11:28:36 AM Monday - WebDriverClass - INFO : Chrome Driver is initializing
+09/01/23 11:28:37 AM Monday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+09/01/23 11:28:38 AM Monday - BaseClass - INFO : WebElement found with locator value Form using locatorType link
+09/01/23 11:28:38 AM Monday - BaseClass - INFO : Clicked on WebElement with locator value Form using locatorType link
+09/01/23 11:28:38 AM Monday - BaseClass - INFO : WebElement found with locator value reused_form using locatorType id
+09/01/23 11:28:38 AM Monday - BaseClass - INFO : WebElement is Displayed on web page with locator value reused_form using locatorType id
+09/01/23 11:28:43 AM Monday - BaseClass - INFO : WebElement found with locator value name using locatorType id
+09/01/23 11:28:43 AM Monday - BaseClass - INFO : Sent the text Code2Lead in WebElement with locator value name using locatorType id
+09/01/23 11:28:43 AM Monday - BaseClass - INFO : WebElement found with locator value email using locatorType id
+09/01/23 11:28:43 AM Monday - BaseClass - INFO : Sent the text abc@gmail.com in WebElement with locator value email using locatorType id
+09/01/23 11:28:43 AM Monday - BaseClass - INFO : WebElement found with locator value message using locatorType id
+09/01/23 11:28:43 AM Monday - BaseClass - INFO : Sent the text This is a Code2Lead in WebElement with locator value message using locatorType id
+09/01/23 11:28:43 AM Monday - BaseClass - INFO : WebElement found with locator value captcha_image using locatorType id
+09/01/23 11:28:43 AM Monday - BaseClass - INFO : Got the text SGH456 from WebElement with locator value captcha_image using locatorType id
+09/01/23 11:28:43 AM Monday - BaseClass - INFO : WebElement found with locator value captcha using locatorType id
+09/01/23 11:28:43 AM Monday - BaseClass - INFO : Sent the text SGH456 in WebElement with locator value captcha using locatorType id
+09/01/23 11:28:44 AM Monday - BaseClass - INFO : WebElement found with locator value btnContactUs using locatorType id
+09/01/23 11:28:44 AM Monday - BaseClass - INFO : Scrolled to WebElement with locator value btnContactUs using locatorType id
+09/01/23 11:28:44 AM Monday - BaseClass - INFO : WebElement found with locator value btnContactUs using locatorType id
+09/01/23 11:28:44 AM Monday - BaseClass - INFO : Clicked on WebElement with locator value btnContactUs using locatorType id
+09/01/23 11:28:52 AM Monday - WebDriverClass - INFO : Chrome Driver is initializing
+09/01/23 11:28:53 AM Monday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+09/01/23 11:28:53 AM Monday - BaseClass - INFO : WebElement found with locator value Locators using locatorType link
+09/01/23 11:28:53 AM Monday - BaseClass - INFO : Clicked on WebElement with locator value Locators using locatorType link
+09/01/23 11:28:56 AM Monday - BaseClass - INFO : WebElement found with locator value user_input using locatorType id
+09/01/23 11:28:56 AM Monday - BaseClass - INFO : Sent the text Code2Lead in WebElement with locator value user_input using locatorType id
+09/01/23 11:28:56 AM Monday - BaseClass - INFO : WebElement found with locator value submitbutton using locatorType id
+09/01/23 11:28:56 AM Monday - BaseClass - INFO : Clicked on WebElement with locator value submitbutton using locatorType id
+09/01/23 02:05:45 PM Monday - WebDriverClass - INFO : Chrome Driver is initializing
+09/01/23 02:05:47 PM Monday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+09/01/23 02:05:53 PM Monday - BaseClass - ERROR : WebElement not found with locator value name using locatorType id
+09/01/23 02:05:53 PM Monday - BaseClass - ERROR : Unable to Sent the text Code2Lead in WebElement with locator value nameusing locatorType id
+10/01/23 12:14:15 PM Tuesday - WebDriverClass - INFO : Chrome Driver is initializing
+10/01/23 12:14:17 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 12:14:17 PM Tuesday - BaseClass - INFO : WebElement found with locator value Form using locatorType link
+10/01/23 12:14:18 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value Form using locatorType link
+10/01/23 12:14:18 PM Tuesday - BaseClass - INFO : WebElement found with locator value reused_form using locatorType id
+10/01/23 12:14:18 PM Tuesday - BaseClass - INFO : WebElement is Displayed on web page with locator value reused_form using locatorType id
+10/01/23 12:14:23 PM Tuesday - BaseClass - INFO : WebElement found with locator value name using locatorType id
+10/01/23 12:14:23 PM Tuesday - BaseClass - INFO : Sent the text Code2Lead in WebElement with locator value name using locatorType id
+10/01/23 12:14:23 PM Tuesday - BaseClass - INFO : WebElement found with locator value email using locatorType id
+10/01/23 12:14:23 PM Tuesday - BaseClass - INFO : Sent the text abc@gmail.com in WebElement with locator value email using locatorType id
+10/01/23 12:14:23 PM Tuesday - BaseClass - INFO : WebElement found with locator value message using locatorType id
+10/01/23 12:14:23 PM Tuesday - BaseClass - INFO : Sent the text This is a Code2Lead in WebElement with locator value message using locatorType id
+10/01/23 12:14:23 PM Tuesday - BaseClass - INFO : WebElement found with locator value captcha_image using locatorType id
+10/01/23 12:14:23 PM Tuesday - BaseClass - INFO : Got the text SGH456 from WebElement with locator value captcha_image using locatorType id
+10/01/23 12:14:23 PM Tuesday - BaseClass - INFO : WebElement found with locator value captcha using locatorType id
+10/01/23 12:14:23 PM Tuesday - BaseClass - INFO : Sent the text SGH456 in WebElement with locator value captcha using locatorType id
+10/01/23 12:14:23 PM Tuesday - BaseClass - INFO : WebElement found with locator value btnContactUs using locatorType id
+10/01/23 12:14:24 PM Tuesday - BaseClass - INFO : Scrolled to WebElement with locator value btnContactUs using locatorType id
+10/01/23 12:14:24 PM Tuesday - BaseClass - INFO : WebElement found with locator value btnContactUs using locatorType id
+10/01/23 12:14:24 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value btnContactUs using locatorType id
+10/01/23 12:14:32 PM Tuesday - WebDriverClass - INFO : Chrome Driver is initializing
+10/01/23 12:14:35 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 12:14:35 PM Tuesday - BaseClass - INFO : WebElement found with locator value Locators using locatorType link
+10/01/23 12:14:35 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value Locators using locatorType link
+10/01/23 12:14:37 PM Tuesday - BaseClass - INFO : WebElement found with locator value user_input using locatorType id
+10/01/23 12:14:37 PM Tuesday - BaseClass - INFO : Sent the text Code2Lead in WebElement with locator value user_input using locatorType id
+10/01/23 12:14:38 PM Tuesday - BaseClass - INFO : WebElement found with locator value submitbutton using locatorType id
+10/01/23 12:14:38 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value submitbutton using locatorType id
+10/01/23 03:00:53 PM Tuesday - WebDriverClass - INFO : Chrome Driver is initializing
+10/01/23 03:00:54 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:00:54 PM Tuesday - BaseClass - INFO : WebElement found with locator value Form using locatorType link
+10/01/23 03:00:55 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value Form using locatorType link
+10/01/23 03:00:55 PM Tuesday - BaseClass - INFO : WebElement found with locator value reused_form using locatorType id
+10/01/23 03:00:55 PM Tuesday - BaseClass - INFO : WebElement is Displayed on web page with locator value reused_form using locatorType id
+10/01/23 03:01:00 PM Tuesday - BaseClass - INFO : WebElement found with locator value name using locatorType id
+10/01/23 03:01:00 PM Tuesday - BaseClass - INFO : Sent the text Code2Lead in WebElement with locator value name using locatorType id
+10/01/23 03:01:00 PM Tuesday - BaseClass - INFO : WebElement found with locator value email using locatorType id
+10/01/23 03:01:00 PM Tuesday - BaseClass - INFO : Sent the text abc@gmail.com in WebElement with locator value email using locatorType id
+10/01/23 03:01:00 PM Tuesday - BaseClass - INFO : WebElement found with locator value message using locatorType id
+10/01/23 03:01:00 PM Tuesday - BaseClass - INFO : Sent the text This is a Code2Lead in WebElement with locator value message using locatorType id
+10/01/23 03:01:00 PM Tuesday - BaseClass - INFO : WebElement found with locator value captcha_image using locatorType id
+10/01/23 03:01:00 PM Tuesday - BaseClass - INFO : Got the text SGH456 from WebElement with locator value captcha_image using locatorType id
+10/01/23 03:01:00 PM Tuesday - BaseClass - INFO : WebElement found with locator value captcha using locatorType id
+10/01/23 03:01:00 PM Tuesday - BaseClass - INFO : Sent the text SGH456 in WebElement with locator value captcha using locatorType id
+10/01/23 03:01:00 PM Tuesday - BaseClass - INFO : WebElement found with locator value btnContactUs using locatorType id
+10/01/23 03:01:00 PM Tuesday - BaseClass - INFO : Scrolled to WebElement with locator value btnContactUs using locatorType id
+10/01/23 03:01:00 PM Tuesday - BaseClass - INFO : WebElement found with locator value btnContactUs using locatorType id
+10/01/23 03:01:00 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value btnContactUs using locatorType id
+10/01/23 03:01:09 PM Tuesday - WebDriverClass - INFO : Chrome Driver is initializing
+10/01/23 03:01:10 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:01:10 PM Tuesday - BaseClass - INFO : WebElement found with locator value Locators using locatorType link
+10/01/23 03:01:10 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value Locators using locatorType link
+10/01/23 03:01:13 PM Tuesday - BaseClass - INFO : WebElement found with locator value user_input using locatorType id
+10/01/23 03:01:13 PM Tuesday - BaseClass - INFO : Sent the text Code2Lead in WebElement with locator value user_input using locatorType id
+10/01/23 03:01:13 PM Tuesday - BaseClass - INFO : WebElement found with locator value submitbutton using locatorType id
+10/01/23 03:01:13 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value submitbutton using locatorType id
+10/01/23 03:12:57 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:12:57 PM Tuesday - BaseClass - ERROR : WebElement not found with locator value Form using locatorType link
+10/01/23 03:12:57 PM Tuesday - BaseClass - ERROR : Unable to Click on WebElement with locator value Form using locatorType link
+10/01/23 03:13:02 PM Tuesday - BaseClass - ERROR : WebElement not found with locator value name using locatorType id
+10/01/23 03:13:02 PM Tuesday - BaseClass - ERROR : Unable to Sent the text Code2Lead in WebElement with locator value nameusing locatorType id
+10/01/23 03:13:07 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:13:07 PM Tuesday - BaseClass - ERROR : WebElement not found with locator value Locators using locatorType link
+10/01/23 03:13:07 PM Tuesday - BaseClass - ERROR : Unable to Click on WebElement with locator value Locators using locatorType link
+10/01/23 03:16:50 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:16:50 PM Tuesday - BaseClass - ERROR : WebElement not found with locator value Form using locatorType link
+10/01/23 03:16:50 PM Tuesday - BaseClass - ERROR : Unable to Click on WebElement with locator value Form using locatorType link
+10/01/23 03:16:55 PM Tuesday - BaseClass - ERROR : WebElement not found with locator value name using locatorType id
+10/01/23 03:16:55 PM Tuesday - BaseClass - ERROR : Unable to Sent the text Code2Lead in WebElement with locator value nameusing locatorType id
+10/01/23 03:17:00 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:17:00 PM Tuesday - BaseClass - ERROR : WebElement not found with locator value Locators using locatorType link
+10/01/23 03:17:00 PM Tuesday - BaseClass - ERROR : Unable to Click on WebElement with locator value Locators using locatorType link
+10/01/23 03:20:58 PM Tuesday - WebDriverClass - INFO : Chrome Driver is initializing
+10/01/23 03:20:59 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:20:59 PM Tuesday - BaseClass - INFO : WebElement found with locator value Form using locatorType link
+10/01/23 03:21:00 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value Form using locatorType link
+10/01/23 03:21:00 PM Tuesday - BaseClass - INFO : WebElement found with locator value reused_form using locatorType id
+10/01/23 03:21:00 PM Tuesday - BaseClass - INFO : WebElement is Displayed on web page with locator value reused_form using locatorType id
+10/01/23 03:21:05 PM Tuesday - BaseClass - INFO : WebElement found with locator value name using locatorType id
+10/01/23 03:21:05 PM Tuesday - BaseClass - INFO : Sent the text Code2Lead in WebElement with locator value name using locatorType id
+10/01/23 03:21:05 PM Tuesday - BaseClass - INFO : WebElement found with locator value email using locatorType id
+10/01/23 03:21:05 PM Tuesday - BaseClass - INFO : Sent the text abc@gmail.com in WebElement with locator value email using locatorType id
+10/01/23 03:21:05 PM Tuesday - BaseClass - INFO : WebElement found with locator value message using locatorType id
+10/01/23 03:21:05 PM Tuesday - BaseClass - INFO : Sent the text This is a Code2Lead in WebElement with locator value message using locatorType id
+10/01/23 03:21:05 PM Tuesday - BaseClass - INFO : WebElement found with locator value captcha_image using locatorType id
+10/01/23 03:21:05 PM Tuesday - BaseClass - INFO : Got the text SGH456 from WebElement with locator value captcha_image using locatorType id
+10/01/23 03:21:05 PM Tuesday - BaseClass - INFO : WebElement found with locator value captcha using locatorType id
+10/01/23 03:21:05 PM Tuesday - BaseClass - INFO : Sent the text SGH456 in WebElement with locator value captcha using locatorType id
+10/01/23 03:21:05 PM Tuesday - BaseClass - INFO : WebElement found with locator value btnContactUs using locatorType id
+10/01/23 03:21:05 PM Tuesday - BaseClass - INFO : Scrolled to WebElement with locator value btnContactUs using locatorType id
+10/01/23 03:21:05 PM Tuesday - BaseClass - INFO : WebElement found with locator value btnContactUs using locatorType id
+10/01/23 03:21:05 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value btnContactUs using locatorType id
+10/01/23 03:21:14 PM Tuesday - WebDriverClass - INFO : Chrome Driver is initializing
+10/01/23 03:21:15 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:21:15 PM Tuesday - BaseClass - INFO : WebElement found with locator value Locators using locatorType link
+10/01/23 03:21:15 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value Locators using locatorType link
+10/01/23 03:21:17 PM Tuesday - BaseClass - INFO : WebElement found with locator value user_input using locatorType id
+10/01/23 03:21:17 PM Tuesday - BaseClass - INFO : Sent the text Code2Lead in WebElement with locator value user_input using locatorType id
+10/01/23 03:21:17 PM Tuesday - BaseClass - INFO : WebElement found with locator value submitbutton using locatorType id
+10/01/23 03:21:17 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value submitbutton using locatorType id
+10/01/23 03:25:31 PM Tuesday - WebDriverClass - INFO : Chrome Driver is initializing
+10/01/23 03:25:33 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:25:33 PM Tuesday - BaseClass - INFO : WebElement found with locator value Form using locatorType link
+10/01/23 03:25:33 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value Form using locatorType link
+10/01/23 03:25:33 PM Tuesday - BaseClass - INFO : WebElement found with locator value reused_form using locatorType id
+10/01/23 03:25:33 PM Tuesday - BaseClass - INFO : WebElement is Displayed on web page with locator value reused_form using locatorType id
+10/01/23 03:25:38 PM Tuesday - BaseClass - INFO : WebElement found with locator value name using locatorType id
+10/01/23 03:25:38 PM Tuesday - BaseClass - INFO : Sent the text Code2Lead in WebElement with locator value name using locatorType id
+10/01/23 03:25:38 PM Tuesday - BaseClass - INFO : WebElement found with locator value email using locatorType id
+10/01/23 03:25:38 PM Tuesday - BaseClass - INFO : Sent the text abc@gmail.com in WebElement with locator value email using locatorType id
+10/01/23 03:25:38 PM Tuesday - BaseClass - INFO : WebElement found with locator value message using locatorType id
+10/01/23 03:25:38 PM Tuesday - BaseClass - INFO : Sent the text This is a Code2Lead in WebElement with locator value message using locatorType id
+10/01/23 03:25:38 PM Tuesday - BaseClass - INFO : WebElement found with locator value captcha_image using locatorType id
+10/01/23 03:25:38 PM Tuesday - BaseClass - INFO : Got the text SGH456 from WebElement with locator value captcha_image using locatorType id
+10/01/23 03:25:38 PM Tuesday - BaseClass - INFO : WebElement found with locator value captcha using locatorType id
+10/01/23 03:25:38 PM Tuesday - BaseClass - INFO : Sent the text SGH456 in WebElement with locator value captcha using locatorType id
+10/01/23 03:25:38 PM Tuesday - BaseClass - INFO : WebElement found with locator value btnContactUs using locatorType id
+10/01/23 03:25:39 PM Tuesday - BaseClass - INFO : Scrolled to WebElement with locator value btnContactUs using locatorType id
+10/01/23 03:25:39 PM Tuesday - BaseClass - INFO : WebElement found with locator value btnContactUs using locatorType id
+10/01/23 03:25:39 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value btnContactUs using locatorType id
+10/01/23 03:25:47 PM Tuesday - WebDriverClass - INFO : Chrome Driver is initializing
+10/01/23 03:25:49 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:25:49 PM Tuesday - BaseClass - INFO : WebElement found with locator value Locators using locatorType link
+10/01/23 03:25:49 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value Locators using locatorType link
+10/01/23 03:25:51 PM Tuesday - BaseClass - INFO : WebElement found with locator value user_input using locatorType id
+10/01/23 03:25:51 PM Tuesday - BaseClass - INFO : Sent the text Code2Lead in WebElement with locator value user_input using locatorType id
+10/01/23 03:25:51 PM Tuesday - BaseClass - INFO : WebElement found with locator value submitbutton using locatorType id
+10/01/23 03:25:51 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value submitbutton using locatorType id
+10/01/23 03:31:57 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:31:57 PM Tuesday - BaseClass - INFO : WebElement found with locator value Form using locatorType link
+10/01/23 03:31:59 PM Tuesday - BaseClass - ERROR : Unable to Click on WebElement with locator value Form using locatorType link
+10/01/23 03:32:29 PM Tuesday - BaseClass - ERROR : WebElement not found with locator value name using locatorType id
+10/01/23 03:32:29 PM Tuesday - BaseClass - ERROR : Unable to Sent the text Code2Lead in WebElement with locator value nameusing locatorType id
+10/01/23 03:32:42 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:32:43 PM Tuesday - BaseClass - INFO : WebElement found with locator value Locators using locatorType link
+10/01/23 03:32:44 PM Tuesday - BaseClass - ERROR : Unable to Click on WebElement with locator value Locators using locatorType link
+10/01/23 03:32:46 PM Tuesday - BaseClass - INFO : WebElement found with locator value user_input using locatorType id
+10/01/23 03:32:47 PM Tuesday - BaseClass - INFO : Sent the text Code2Lead in WebElement with locator value user_input using locatorType id
+10/01/23 03:32:47 PM Tuesday - BaseClass - INFO : WebElement found with locator value submitbutton using locatorType id
+10/01/23 03:32:47 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value submitbutton using locatorType id
+10/01/23 03:39:13 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:39:13 PM Tuesday - BaseClass - INFO : WebElement found with locator value Form using locatorType link
+10/01/23 03:39:14 PM Tuesday - BaseClass - ERROR : Unable to Click on WebElement with locator value Form using locatorType link
+10/01/23 03:41:19 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:41:19 PM Tuesday - BaseClass - INFO : WebElement found with locator value //div[@class='breadcrumb-item']//a[@href='Form.html'][normalize-space()='Form'] using locatorType xpath
+10/01/23 03:41:20 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value //div[@class='breadcrumb-item']//a[@href='Form.html'][normalize-space()='Form'] using locatorType xpath
+10/01/23 03:41:20 PM Tuesday - BaseClass - INFO : WebElement found with locator value reused_form using locatorType id
+10/01/23 03:41:20 PM Tuesday - BaseClass - INFO : WebElement is Displayed on web page with locator value reused_form using locatorType id
+10/01/23 03:41:25 PM Tuesday - BaseClass - INFO : WebElement found with locator value name using locatorType id
+10/01/23 03:41:25 PM Tuesday - BaseClass - INFO : Sent the text Code2Lead in WebElement with locator value name using locatorType id
+10/01/23 03:41:25 PM Tuesday - BaseClass - INFO : WebElement found with locator value email using locatorType id
+10/01/23 03:41:26 PM Tuesday - BaseClass - INFO : Sent the text abc@gmail.com in WebElement with locator value email using locatorType id
+10/01/23 03:41:26 PM Tuesday - BaseClass - INFO : WebElement found with locator value message using locatorType id
+10/01/23 03:41:26 PM Tuesday - BaseClass - INFO : Sent the text This is a Code2Lead in WebElement with locator value message using locatorType id
+10/01/23 03:41:26 PM Tuesday - BaseClass - INFO : WebElement found with locator value captcha_image using locatorType id
+10/01/23 03:41:27 PM Tuesday - BaseClass - INFO : Got the text SGH456 from WebElement with locator value captcha_image using locatorType id
+10/01/23 03:41:27 PM Tuesday - BaseClass - INFO : WebElement found with locator value captcha using locatorType id
+10/01/23 03:41:27 PM Tuesday - BaseClass - INFO : Sent the text SGH456 in WebElement with locator value captcha using locatorType id
+10/01/23 03:41:27 PM Tuesday - BaseClass - INFO : WebElement found with locator value btnContactUs using locatorType id
+10/01/23 03:41:28 PM Tuesday - BaseClass - INFO : Scrolled to WebElement with locator value btnContactUs using locatorType id
+10/01/23 03:41:28 PM Tuesday - BaseClass - INFO : WebElement found with locator value btnContactUs using locatorType id
+10/01/23 03:41:29 PM Tuesday - BaseClass - ERROR : Unable to Click on WebElement with locator value btnContactUs using locatorType id
+10/01/23 03:42:49 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:42:49 PM Tuesday - BaseClass - INFO : WebElement found with locator value Locators using locatorType link
+10/01/23 03:42:51 PM Tuesday - BaseClass - ERROR : Unable to Click on WebElement with locator value Locators using locatorType link
+10/01/23 03:42:53 PM Tuesday - BaseClass - INFO : WebElement found with locator value user_input using locatorType id
+10/01/23 03:42:54 PM Tuesday - BaseClass - INFO : Sent the text Code2Lead in WebElement with locator value user_input using locatorType id
+10/01/23 03:42:54 PM Tuesday - BaseClass - INFO : WebElement found with locator value submitbutton using locatorType id
+10/01/23 03:42:54 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value submitbutton using locatorType id
+10/01/23 03:51:22 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:51:22 PM Tuesday - BaseClass - INFO : WebElement found with locator value //div[@class='breadcrumb-item']//a[@href='Form.html'][normalize-space()='Form'] using locatorType xpath
+10/01/23 03:51:22 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value //div[@class='breadcrumb-item']//a[@href='Form.html'][normalize-space()='Form'] using locatorType xpath
+10/01/23 03:51:23 PM Tuesday - BaseClass - INFO : WebElement found with locator value reused_form using locatorType id
+10/01/23 03:51:23 PM Tuesday - BaseClass - INFO : WebElement is Displayed on web page with locator value reused_form using locatorType id
+10/01/23 03:51:28 PM Tuesday - BaseClass - INFO : WebElement found with locator value name using locatorType id
+10/01/23 03:51:28 PM Tuesday - BaseClass - INFO : Sent the text Code2Lead in WebElement with locator value name using locatorType id
+10/01/23 03:51:28 PM Tuesday - BaseClass - INFO : WebElement found with locator value email using locatorType id
+10/01/23 03:51:28 PM Tuesday - BaseClass - INFO : Sent the text abc@gmail.com in WebElement with locator value email using locatorType id
+10/01/23 03:51:29 PM Tuesday - BaseClass - INFO : WebElement found with locator value message using locatorType id
+10/01/23 03:51:29 PM Tuesday - BaseClass - INFO : Sent the text This is a Code2Lead in WebElement with locator value message using locatorType id
+10/01/23 03:51:29 PM Tuesday - BaseClass - INFO : WebElement found with locator value captcha_image using locatorType id
+10/01/23 03:51:29 PM Tuesday - BaseClass - INFO : Got the text SGH456 from WebElement with locator value captcha_image using locatorType id
+10/01/23 03:51:30 PM Tuesday - BaseClass - INFO : WebElement found with locator value captcha using locatorType id
+10/01/23 03:51:30 PM Tuesday - BaseClass - INFO : Sent the text SGH456 in WebElement with locator value captcha using locatorType id
+10/01/23 03:51:30 PM Tuesday - BaseClass - INFO : WebElement found with locator value btnContactUs using locatorType id
+10/01/23 03:51:30 PM Tuesday - BaseClass - INFO : Scrolled to WebElement with locator value btnContactUs using locatorType id
+10/01/23 03:51:30 PM Tuesday - BaseClass - INFO : WebElement found with locator value btnContactUs using locatorType id
+10/01/23 03:51:32 PM Tuesday - BaseClass - ERROR : Unable to Click on WebElement with locator value btnContactUs using locatorType id
+10/01/23 03:51:43 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 03:51:43 PM Tuesday - BaseClass - INFO : WebElement found with locator value Locators using locatorType link
+10/01/23 03:51:44 PM Tuesday - BaseClass - ERROR : Unable to Click on WebElement with locator value Locators using locatorType link
+10/01/23 03:51:47 PM Tuesday - BaseClass - INFO : WebElement found with locator value user_input using locatorType id
+10/01/23 03:51:48 PM Tuesday - BaseClass - INFO : Sent the text Code2Lead in WebElement with locator value user_input using locatorType id
+10/01/23 03:51:48 PM Tuesday - BaseClass - INFO : WebElement found with locator value submitbutton using locatorType id
+10/01/23 03:51:48 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value submitbutton using locatorType id
+10/01/23 04:08:28 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 04:08:28 PM Tuesday - BaseClass - INFO : WebElement found with locator value //div[@class='breadcrumb-item']//a[@href='Form.html'][normalize-space()='Form'] using locatorType xpath
+10/01/23 04:08:28 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value //div[@class='breadcrumb-item']//a[@href='Form.html'][normalize-space()='Form'] using locatorType xpath
+10/01/23 04:08:29 PM Tuesday - BaseClass - INFO : WebElement found with locator value reused_form using locatorType id
+10/01/23 04:08:29 PM Tuesday - BaseClass - INFO : WebElement is Displayed on web page with locator value reused_form using locatorType id
+10/01/23 04:10:03 PM Tuesday - BaseClass - INFO : Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+10/01/23 04:10:03 PM Tuesday - BaseClass - INFO : WebElement found with locator value //div[@class='breadcrumb-item']//a[@href='Form.html'][normalize-space()='Form'] using locatorType xpath
+10/01/23 04:10:04 PM Tuesday - BaseClass - INFO : Clicked on WebElement with locator value //div[@class='breadcrumb-item']//a[@href='Form.html'][normalize-space()='Form'] using locatorType xpath
+10/01/23 04:10:04 PM Tuesday - BaseClass - INFO : WebElement found with locator value reused_form using locatorType id
+10/01/23 04:10:04 PM Tuesday - BaseClass - INFO : WebElement is Displayed on web page with locator value reused_form using locatorType id

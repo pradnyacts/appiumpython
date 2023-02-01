@@ -1,0 +1,14 @@
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value name using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:102 Sent the text Code2Lead in WebElement with locator value name using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value email using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:102 Sent the text abc@gmail.com in WebElement with locator value email using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value message using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:102 Sent the text This is a Code2Lead in WebElement with locator value message using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value captcha_image using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:117 Got the text SGH456 from WebElement with locator value captcha_image using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value captcha using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:102 Sent the text SGH456 in WebElement with locator value captcha using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value btnContactUs using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:152 Scrolled to WebElement with locator value btnContactUs using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value btnContactUs using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:89 Clicked on WebElement with locator value btnContactUs using locatorType id

@@ -1,0 +1,6 @@
+[32mINFO    [0m WebDriverClass:DriverClass.py:16 Chrome Driver is initializing
+[32mINFO    [0m BaseClass:BasePage.py:24 Web page launched with urlhttp://www.dummypoint.com/seleniumtemplate.html
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value Form using locatorType link
+[32mINFO    [0m BaseClass:BasePage.py:89 Clicked on WebElement with locator value Form using locatorType link
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value reused_form using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:135 WebElement is Displayed on web page with locator value reused_form using locatorType id

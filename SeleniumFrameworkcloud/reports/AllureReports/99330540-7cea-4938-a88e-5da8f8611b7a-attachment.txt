@@ -1,0 +1,4 @@
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value user_input using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:102 Sent the text Code2Lead in WebElement with locator value user_input using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:73 WebElement found with locator value submitbutton using locatorType id
+[32mINFO    [0m BaseClass:BasePage.py:89 Clicked on WebElement with locator value submitbutton using locatorType id
